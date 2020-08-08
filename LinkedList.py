@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 14 19:32:00 2016
 
-@author: abains-src
+@author: ab-src
 @program: Linked List in Python
 """
 
